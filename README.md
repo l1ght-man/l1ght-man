@@ -6,7 +6,9 @@
 
 
 python • security • building weird stuff  
+
 🇫🇷 fr/en • 🎓 cs student
+
 ---
 ☑️ script kiddie (the curious kind)  
 ☑️ vibe coder (it compiles, ship it)  
