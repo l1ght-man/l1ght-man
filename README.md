@@ -12,7 +12,7 @@ python • security • building weird stuff
 ---
 ☑️ script kiddie (the curious kind)  
 ☑️ vibe coder (it compiles, ship it)  
-☑️ copy paster (stackoverflow certified)  
+☑️ copy paster (ctrl+c ctrl+v certified)  
 ✅ actual learner (breaking → fixing → repeat)
 
 ---
