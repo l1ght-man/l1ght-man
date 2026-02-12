@@ -11,7 +11,7 @@ python • security • building weird stuff
 
 ---
 ☑️ script kiddie (the curious kind)  
-☑️ vibe coder (it compiles, ship it)  
+☑️ vibe coder (it runs, ship it)  
 ☑️ copy paster (ctrl+c ctrl+v certified)  
 ✅ actual learner (breaking → fixing → repeat)
 
