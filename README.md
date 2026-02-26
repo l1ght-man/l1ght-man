@@ -20,7 +20,7 @@ python · c · docker · linux · asm
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/l1ght-man/l1ght-man/main/dist/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/l1ght-man/l1ght-man/main/dist/github-contribution-grid-snake.svg?t=1" alt="snake">
 </div>
 
 ---
