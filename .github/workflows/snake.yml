@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: l1ght-man
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#7ee787,#3fb950,#2ea043,#238636,#0e4429
 
       - name: Push to main branch
         uses: peaceiris/actions-gh-pages@v4
