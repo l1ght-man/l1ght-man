@@ -18,7 +18,6 @@ python · c · docker · linux · asm
 
 ---
 
-### snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/l1ght-man/l1ght-man/output/github-contribution-grid-snake.svg" alt="snake">
