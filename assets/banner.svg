@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 330" width="840" height="330" role="img" aria-labelledby="t d">
+<title id="t">l1ght — offensive security</title>
+<desc id="d">Terminal running neofetch: L1GHT banner. role offensive security, base tunisia, htb elite hacker, certs CRTA, Web RTA, AD-RTS, web lightman.social.</desc>
+<style>
+text{font-family:ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;font-size:14px}
+.ink{fill:#ededed} .hi{fill:#ffffff} .mid{fill:#a3a3a3} .lab{fill:#7c7c7c} .dim{fill:#5e5e5e} .b{font-weight:700}
+.ttl{font-size:12px;fill:#7c7c7c}
+.pl{fill:none;stroke:#5e5e5e;stroke-width:1.3}
+.blk{fill:#ededed}
+.shd{fill:none;stroke:#7c7c7c;stroke-width:1.2;stroke-linecap:square}
+.rule{stroke:#5e5e5e;stroke-width:1.2}
+.on{animation:on .01s linear both}
+.row{animation:flick .38s linear both}
+.cur1{animation:type1 0.600s steps(8,start) 0.65s both, gone .01s linear 1.60s both}
+.blink{animation:blink 1.1s step-end infinite}
+.scan{animation:scan 7s linear infinite}
+@keyframes on{from{opacity:0}to{opacity:1}}
+@keyframes gone{from{opacity:1}to{opacity:0}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes flick{0%{opacity:0}25%{opacity:.85}40%{opacity:.15}55%{opacity:1}70%{opacity:.55}100%{opacity:1}}
+@keyframes type1{from{transform:translateX(0)}to{transform:translateX(67.2px)}}
+@keyframes scan{from{transform:translateY(-90px)}to{transform:translateY(330px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.cur1,.scan{display:none}}
+</style>
+<defs>
+<filter id="glow" x="-5%" y="-20%" width="110%" height="140%">
+<feGaussianBlur stdDeviation="2.4" result="b"/>
+<feComponentTransfer in="b" result="bb"><feFuncA type="linear" slope=".55"/></feComponentTransfer>
+<feMerge><feMergeNode in="bb"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".85" stop-color="#fff" stop-opacity=".035"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<pattern id="lines" width="4" height="3" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="#fff" fill-opacity=".018"/>
+</pattern>
+<clipPath id="win"><rect x="1" y="1" width="838" height="328" rx="8"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="839" height="329" rx="8.5" fill="#000" stroke="#2a2a2a"/>
+<path d="M1 34.5H839" stroke="#1a1a1a"/>
+<circle cx="20" cy="17" r="5" fill="#1a1a1a" stroke="#2a2a2a"/>
+<circle cx="37" cy="17" r="5" fill="#1a1a1a" stroke="#2a2a2a"/>
+<circle cx="54" cy="17" r="5" fill="#1a1a1a" stroke="#2a2a2a"/>
+<text class="ttl" x="420.0" y="21" text-anchor="middle">l1ght@lightman: ~</text>
+<g clip-path="url(#win)">
+<g class="prompt">
+<path class="pl" d="M32.2 59.5H53.2M32.2 59.5V79.5H44.8"/>
+<text class="dim" x="53.2" y="64">(</text>
+<text class="hi b" x="61.6 70.0 78.4 86.8 95.2" y="64">l1ght</text>
+<text class="mid" x="103.6" y="64">@</text>
+<text class="hi b" x="112.0 120.4 128.8 137.2 145.6 154.0 162.4 170.8" y="64">lightman</text>
+<text class="dim" x="179.2 187.6 196.0" y="64">)-[</text>
+<text class="ink b" x="204.4" y="64">~</text>
+<text class="dim" x="212.8" y="64">]</text>
+<text class="mid b" x="44.8" y="84">$</text>
+</g>
+<text class="ink on" x="61.6" y="84" style="animation-delay:0.650s">n</text>
+<text class="ink on" x="70.0" y="84" style="animation-delay:0.725s">e</text>
+<text class="ink on" x="78.4" y="84" style="animation-delay:0.800s">o</text>
+<text class="ink on" x="86.8" y="84" style="animation-delay:0.875s">f</text>
+<text class="ink on" x="95.2" y="84" style="animation-delay:0.950s">e</text>
+<text class="ink on" x="103.6" y="84" style="animation-delay:1.025s">t</text>
+<text class="ink on" x="112.0" y="84" style="animation-delay:1.100s">c</text>
+<text class="ink on" x="120.4" y="84" style="animation-delay:1.175s">h</text>
+<g class="cur1"><rect x="61.6" y="72" width="8.4" height="16" fill="#ededed"/></g>
+<g filter="url(#glow)">
+<g class="row" style="animation-delay:1.70s"><path class="shd" d="M52 115.4H60.6V130M52 120.6H55.4V130M160 115.4H168.6V130M160 120.6H163.4V130M256 115.4H264.6V130M256 120.6H259.4V130M304 115.4H312.6V130M304 120.6H307.4V130M364 115.4H372.6V130M364 120.6H367.4V130M472 115.4H480.6V130M472 120.6H475.4V130"/><g class="blk"><rect x="28" y="106" width="24" height="24"/><rect x="136" y="106" width="24" height="24"/><rect x="184" y="106" width="72" height="24"/><rect x="280" y="106" width="24" height="24"/><rect x="340" y="106" width="24" height="24"/><rect x="376" y="106" width="96" height="24"/><rect x="28" y="129" width="24" height="2"/><rect x="136" y="129" width="24" height="2"/><rect x="184" y="129" width="12" height="2"/><rect x="280" y="129" width="24" height="2"/><rect x="340" y="129" width="24" height="2"/><rect x="412" y="129" width="24" height="2"/></g></g>
+<g class="row" style="animation-delay:1.76s"><path class="shd" d="M55.4 130V154M60.6 130V154M163.4 130V154M168.6 130V154M208 139.4H199.4V154M208 144.6H204.6V154M208 139.4H220M208 144.6H220M220 139.4H232M220 144.6H232M232 139.4H244M232 144.6H244M244 139.4H256M244 144.6H256M256 144.6H264.6V130M256 139.4H259.4V130M307.4 130V154M312.6 130V154M367.4 130V154M372.6 130V154M388 144.6H379.4V130M388 139.4H384.6V130M388 139.4H400M388 144.6H400M400 139.4H412M400 144.6H412M448 139.4H439.4V154M448 144.6H444.6V154M448 139.4H460M448 144.6H460M460 139.4H472M460 144.6H472M472 144.6H480.6V130M472 139.4H475.4V130"/><g class="blk"><rect x="28" y="130" width="24" height="24"/><rect x="124" y="130" width="36" height="24"/><rect x="172" y="130" width="24" height="24"/><rect x="280" y="130" width="24" height="24"/><rect x="340" y="130" width="24" height="24"/><rect x="412" y="130" width="24" height="24"/><rect x="28" y="153" width="24" height="2"/><rect x="136" y="153" width="24" height="2"/><rect x="172" y="153" width="24" height="2"/><rect x="280" y="153" width="24" height="2"/><rect x="340" y="153" width="24" height="2"/><rect x="412" y="153" width="24" height="2"/></g></g>
+<g class="row" style="animation-delay:1.82s"><path class="shd" d="M55.4 154V178M60.6 154V178M136 168.6H127.4V154M136 163.4H132.6V154M163.4 154V178M168.6 154V178M199.4 154V178M204.6 154V178M268 163.4H276.6V178M268 168.6H271.4V178M367.4 154V178M372.6 154V178M439.4 154V178M444.6 154V178"/><g class="blk"><rect x="28" y="154" width="24" height="24"/><rect x="136" y="154" width="24" height="24"/><rect x="172" y="154" width="24" height="24"/><rect x="232" y="154" width="36" height="24"/><rect x="280" y="154" width="84" height="24"/><rect x="412" y="154" width="24" height="24"/><rect x="28" y="177" width="24" height="2"/><rect x="136" y="177" width="24" height="2"/><rect x="172" y="177" width="24" height="2"/><rect x="244" y="177" width="24" height="2"/><rect x="280" y="177" width="24" height="2"/><rect x="340" y="177" width="24" height="2"/><rect x="412" y="177" width="24" height="2"/></g></g>
+<g class="row" style="animation-delay:1.88s"><path class="shd" d="M55.4 178V202M60.6 178V202M163.4 178V202M168.6 178V202M199.4 178V202M204.6 178V202M271.4 178V202M276.6 178V202M316 187.4H307.4V202M316 192.6H312.6V202M316 187.4H328M316 192.6H328M328 187.4H340M328 192.6H340M367.4 178V202M372.6 178V202M439.4 178V202M444.6 178V202"/><g class="blk"><rect x="28" y="178" width="24" height="24"/><rect x="136" y="178" width="24" height="24"/><rect x="172" y="178" width="24" height="24"/><rect x="244" y="178" width="24" height="24"/><rect x="280" y="178" width="24" height="24"/><rect x="340" y="178" width="24" height="24"/><rect x="412" y="178" width="24" height="24"/><rect x="28" y="201" width="24" height="2"/><rect x="136" y="201" width="24" height="2"/><rect x="184" y="201" width="12" height="2"/><rect x="244" y="201" width="12" height="2"/><rect x="280" y="201" width="24" height="2"/><rect x="340" y="201" width="24" height="2"/><rect x="412" y="201" width="24" height="2"/></g></g>
+<g class="row" style="animation-delay:1.94s"><path class="shd" d="M112 211.4H120.6V226M112 216.6H115.4V226M163.4 202V226M168.6 202V226M184 216.6H175.4V202M184 211.4H180.6V202M268 211.4H259.4V226M268 216.6H264.6V226M268 216.6H276.6V202M268 211.4H271.4V202M307.4 202V226M312.6 202V226M367.4 202V226M372.6 202V226M439.4 202V226M444.6 202V226"/><g class="blk"><rect x="28" y="202" width="84" height="24"/><rect x="136" y="202" width="24" height="24"/><rect x="184" y="202" width="72" height="24"/><rect x="280" y="202" width="24" height="24"/><rect x="340" y="202" width="24" height="24"/><rect x="412" y="202" width="24" height="24"/></g></g>
+<g class="row" style="animation-delay:2.00s"><path class="shd" d="M40 240.6H31.4V226M40 235.4H36.6V226M40 235.4H52M40 240.6H52M52 235.4H64M52 240.6H64M64 235.4H76M64 240.6H76M76 235.4H88M76 240.6H88M88 235.4H100M88 240.6H100M100 235.4H112M100 240.6H112M112 240.6H120.6V226M112 235.4H115.4V226M148 240.6H139.4V226M148 235.4H144.6V226M148 235.4H160M148 240.6H160M160 240.6H168.6V226M160 235.4H163.4V226M196 240.6H187.4V226M196 235.4H192.6V226M196 235.4H208M196 240.6H208M208 235.4H220M208 240.6H220M220 235.4H232M220 240.6H232M232 235.4H244M232 240.6H244M244 235.4H256M244 240.6H256M256 240.6H264.6V226M256 235.4H259.4V226M292 240.6H283.4V226M292 235.4H288.6V226M292 235.4H304M292 240.6H304M304 240.6H312.6V226M304 235.4H307.4V226M352 240.6H343.4V226M352 235.4H348.6V226M352 235.4H364M352 240.6H364M364 240.6H372.6V226M364 235.4H367.4V226M424 240.6H415.4V226M424 235.4H420.6V226M424 235.4H436M424 240.6H436M436 240.6H444.6V226M436 235.4H439.4V226"/><g class="blk"></g></g>
+</g>
+<g class="on" style="animation-delay:1.80s"><text class="hi b" x="520.0 528.4 536.8 545.2 553.6" y="119" filter="url(#glow)">l1ght</text><text class="mid" x="562.0" y="119">@</text><text class="hi b" x="570.4 578.8 587.2 595.6 604.0 612.4 620.8 629.2" y="119" filter="url(#glow)">lightman</text></g>
+<g class="on" style="animation-delay:1.87s"><path class="rule" d="M520 132.5H637.6"/></g>
+<g class="on" style="animation-delay:1.94s"><text class="lab b" x="520.0 528.4 536.8 545.2" y="155">role</text><text class="ink" x="578.8 587.2 595.6 604.0 612.4 620.8 629.2 637.6 646.0 662.8 671.2 679.6 688.0 696.4 704.8 713.2 721.6" y="155">offensivesecurity</text></g>
+<g class="on" style="animation-delay:2.01s"><text class="lab b" x="520.0 528.4 536.8 545.2" y="173">base</text><text class="ink" x="578.8 587.2 595.6 604.0 612.4 620.8 629.2" y="173">tunisia</text></g>
+<g class="on" style="animation-delay:2.08s"><text class="lab b" x="520.0 528.4 536.8" y="191">htb</text><text class="ink" x="578.8 587.2 595.6 604.0 612.4 629.2 637.6 646.0 654.4 662.8 671.2" y="191">elitehacker</text></g>
+<g class="on" style="animation-delay:2.15s"><text class="lab b" x="520.0 528.4 536.8 545.2 553.6" y="209">certs</text><text class="ink" x="578.8 587.2 595.6 604.0 620.8 637.6 646.0 654.4 671.2 679.6 688.0 704.8 721.6 730.0 738.4 746.8 755.2 763.6" y="209">crta·webrta·ad-rts</text></g>
+<g class="on" style="animation-delay:2.22s"><text class="lab b" x="520.0 528.4 536.8" y="227">web</text><text class="ink" x="578.8 587.2 595.6 604.0 612.4 620.8 629.2 637.6 646.0 654.4 662.8 671.2 679.6 688.0 696.4" y="227">lightman.social</text></g>
+<g class="on" style="animation-delay:2.29s"><rect x="520.0" y="233" width="25.2" height="15" fill="#1a1a1a"/><rect x="545.2" y="233" width="25.2" height="15" fill="#2a2a2a"/><rect x="570.4" y="233" width="25.2" height="15" fill="#3d3d3d"/><rect x="595.6" y="233" width="25.2" height="15" fill="#5e5e5e"/><rect x="620.8" y="233" width="25.2" height="15" fill="#7c7c7c"/><rect x="646.0" y="233" width="25.2" height="15" fill="#a3a3a3"/><rect x="671.2" y="233" width="25.2" height="15" fill="#cfcfcf"/><rect x="696.4" y="233" width="25.2" height="15" fill="#ededed"/></g>
+<g class="on" style="animation-delay:2.61s">
+<g class="prompt">
+<path class="pl" d="M32.2 279.5H53.2M32.2 279.5V299.5H44.8"/>
+<text class="dim" x="53.2" y="284">(</text>
+<text class="hi b" x="61.6 70.0 78.4 86.8 95.2" y="284">l1ght</text>
+<text class="mid" x="103.6" y="284">@</text>
+<text class="hi b" x="112.0 120.4 128.8 137.2 145.6 154.0 162.4 170.8" y="284">lightman</text>
+<text class="dim" x="179.2 187.6 196.0" y="284">)-[</text>
+<text class="ink b" x="204.4" y="284">~</text>
+<text class="dim" x="212.8" y="284">]</text>
+<text class="mid b" x="44.8" y="304">$</text>
+</g>
+<rect class="blink" x="61.6" y="292" width="8.4" height="16" fill="#ededed"/>
+</g>
+<rect width="840" height="330" fill="url(#lines)" pointer-events="none"/>
+<rect class="scan" width="840" height="90" fill="url(#sg)" pointer-events="none"/>
+</g>
+</svg>
